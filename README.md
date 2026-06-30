@@ -1,6 +1,6 @@
 ### Hi, I'm Philip 👋
 
-I build with **data and AI** — LLM pipelines, AI agents, and full-stack apps — and I've spent 7+ years working with customers and turning complex technical ideas into things people actually use.
+I build with **data and AI** — LLM pipelines, AI agents, and full-stack apps - and I've spent 7+ years working with customers explaining and building technical tools.
 
 I like sitting where engineering meets the customer: deep enough to build it, clear enough to explain why it matters.
 
@@ -20,11 +20,10 @@ I like sitting where engineering meets the customer: deep enough to build it, cl
 
 ### 🧰 Working with
 
-`TypeScript` · `Python` · `Next.js / React` · `Node.js` · `Supabase / Postgres` · `LLM pipelines & agents` · `Vercel`
+`SQL` · `TypeScript` · `Python` · `Next.js / React` · `Node.js` · `Supabase / Postgres` · `LLM pipelines & agents` · `Vercel`
 
 ---
 
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Philip%20Liscom-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-liscom-270290119/)
-[![Email](https://img.shields.io/badge/Email-pliscom%40gmail.com-C94B2C?logo=gmail&logoColor=white)](mailto:pliscom@gmail.com)
